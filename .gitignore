@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+database/
+client_updates/
+global_models/
+uploads/
+*.db
